@@ -31,6 +31,4 @@ I am very passionate and enthusiastic about software development. This has made 
 </p>
 
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/mikenkansah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
