@@ -1,14 +1,9 @@
 Hi 👋 My name is Michael Kwame Nkansah
 ======================================
 
-Full Stack Web Developer
-------------------------
-
 I am very passionate and enthusiastic about software development. This has made me a very compulsive learner due to the fact that once you start developing you never stop learning.
 
-* 🌍  I'm based in Ghana
 * ✉️  You can contact me at [nkansahmichael232@gmail,com](mailto:nkansahmichael232@gmail,com)
-* 🧠  I'm learning Reactjs and TypeScript
 * 🤝  I'm open to collaborating on full stack applications
 * ⚡  Aside coding i love listening to music especially afrobeats
 
